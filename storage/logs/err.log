@@ -1,0 +1,780 @@
+Error: Please pass numbers as strings or BN objects to avoid precision errors.
+    at Object.toWei (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/index.js:249:15)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:44:38)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/html/trade/public/TEKCOS/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:224:16)
+    at done (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:273:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+Error: Please pass numbers as strings or BN objects to avoid precision errors.
+    at Object.toWei (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/index.js:249:15)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:42:38)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/html/trade/public/TEKCOS/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:224:16)
+    at done (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:273:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+Error: Please pass numbers as strings or BN objects to avoid precision errors.
+    at Object.toWei (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/index.js:249:15)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:43:38)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/html/trade/public/TEKCOS/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:224:16)
+    at done (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:273:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+Error: Please pass numbers as strings or BN objects to avoid precision errors.
+    at Object.toWei (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/index.js:249:15)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:43:38)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/html/trade/public/TEKCOS/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:224:16)
+    at done (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:273:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+Error: Please pass numbers as strings or BN objects to avoid precision errors.
+    at Object.toWei (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/index.js:249:15)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:43:38)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/html/trade/public/TEKCOS/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:224:16)
+    at done (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:273:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+Error: Please pass numbers as strings or BN objects to avoid precision errors.
+    at Object.toWei (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/index.js:249:15)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:43:38)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/html/trade/public/TEKCOS/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:224:16)
+    at done (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:273:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+Error: Please pass numbers as strings or BN objects to avoid precision errors.
+    at Object.toWei (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/index.js:249:15)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:44:38)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/html/trade/public/TEKCOS/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:224:16)
+    at done (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:273:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+Error: Please pass numbers as strings or BN objects to avoid precision errors.
+    at Object.toWei (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/index.js:249:15)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:44:38)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/html/trade/public/TEKCOS/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:224:16)
+    at done (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:273:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+Error: Please pass numbers as strings or BN objects to avoid precision errors.
+    at Object.toWei (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/index.js:249:15)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:44:38)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/html/trade/public/TEKCOS/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:224:16)
+    at done (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:273:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+Error: Please pass numbers as strings or BN objects to avoid precision errors.
+    at Object.toWei (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/index.js:249:15)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:44:38)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/html/trade/public/TEKCOS/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:224:16)
+    at done (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:273:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+Error: Please pass numbers as strings or BN objects to avoid precision errors.
+    at Object.toWei (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/index.js:249:15)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:44:38)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/html/trade/public/TEKCOS/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:224:16)
+    at done (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:273:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+Error: Please pass numbers as strings or BN objects to avoid precision errors.
+    at Object.toWei (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/index.js:249:15)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:44:38)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/html/trade/public/TEKCOS/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:224:16)
+    at done (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:273:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+Error: Please pass numbers as strings or BN objects to avoid precision errors.
+    at Object.toWei (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/index.js:249:15)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:44:38)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/html/trade/public/TEKCOS/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:224:16)
+    at done (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:273:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+Error: Error: [number-to-bn] while converting number 1.1178395 to BN.js instance, error: invalid number value. Value must be an integer, hex string, BN or BigNumber instance. Note, decimals are not supported. Given value: "1.1178395"
+    at toBN (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:60:15)
+    at numberToHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:239:18)
+    at Object.toHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:316:62)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:44:21)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/html/trade/public/TEKCOS/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:224:16)
+    at done (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:273:7)
+Error: Error: [number-to-bn] while converting number 1.1178395 to BN.js instance, error: invalid number value. Value must be an integer, hex string, BN or BigNumber instance. Note, decimals are not supported. Given value: "1.1178395"
+    at toBN (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:60:15)
+    at numberToHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:239:18)
+    at Object.toHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:316:62)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:44:21)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/html/trade/public/TEKCOS/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:224:16)
+    at done (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:273:7)
+Error: Error: [number-to-bn] while converting number 1.1178395 to BN.js instance, error: invalid number value. Value must be an integer, hex string, BN or BigNumber instance. Note, decimals are not supported. Given value: "1.1178395"
+    at toBN (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:60:15)
+    at numberToHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:239:18)
+    at Object.toHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:316:62)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:44:21)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/html/trade/public/TEKCOS/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:224:16)
+    at done (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:273:7)
+Error: Error: [number-to-bn] while converting number 1.1178395 to BN.js instance, error: invalid number value. Value must be an integer, hex string, BN or BigNumber instance. Note, decimals are not supported. Given value: "1.1178395"
+    at toBN (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:60:15)
+    at numberToHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:239:18)
+    at Object.toHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:316:62)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:44:21)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/html/trade/public/TEKCOS/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:224:16)
+    at done (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:273:7)
+Error: Error: [number-to-bn] while converting number 1.1178395 to BN.js instance, error: invalid number value. Value must be an integer, hex string, BN or BigNumber instance. Note, decimals are not supported. Given value: "1.1178395"
+    at toBN (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:60:15)
+    at numberToHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:239:18)
+    at Object.toHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:316:62)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:44:21)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/html/trade/public/TEKCOS/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:224:16)
+    at done (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:273:7)
+Error: Error: [number-to-bn] while converting number 1.1178395 to BN.js instance, error: invalid number value. Value must be an integer, hex string, BN or BigNumber instance. Note, decimals are not supported. Given value: "1.1178395"
+    at toBN (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:60:15)
+    at numberToHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:239:18)
+    at Object.toHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:316:62)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:44:21)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/html/trade/public/TEKCOS/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:224:16)
+    at done (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:273:7)
+Error: Error: [number-to-bn] while converting number 1.1178395 to BN.js instance, error: invalid number value. Value must be an integer, hex string, BN or BigNumber instance. Note, decimals are not supported. Given value: "1.1178395"
+    at toBN (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:60:15)
+    at numberToHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:239:18)
+    at Object.toHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:316:62)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:44:21)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/html/trade/public/TEKCOS/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:224:16)
+    at done (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:273:7)
+Error: Error: [number-to-bn] while converting number 1.1178395 to BN.js instance, error: invalid number value. Value must be an integer, hex string, BN or BigNumber instance. Note, decimals are not supported. Given value: "1.1178395"
+    at toBN (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:60:15)
+    at numberToHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:239:18)
+    at Object.toHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:316:62)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:44:21)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/html/trade/public/TEKCOS/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:224:16)
+    at done (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:273:7)
+Error: Error: [number-to-bn] while converting number 1.1178395 to BN.js instance, error: invalid number value. Value must be an integer, hex string, BN or BigNumber instance. Note, decimals are not supported. Given value: "1.1178395"
+    at toBN (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:60:15)
+    at numberToHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:239:18)
+    at Object.toHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:316:62)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:44:21)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/html/trade/public/TEKCOS/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:224:16)
+    at done (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:273:7)
+Error: Error: [number-to-bn] while converting number 1.1178395 to BN.js instance, error: invalid number value. Value must be an integer, hex string, BN or BigNumber instance. Note, decimals are not supported. Given value: "1.1178395"
+    at toBN (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:60:15)
+    at numberToHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:239:18)
+    at Object.toHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:316:62)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:44:21)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/html/trade/public/TEKCOS/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:224:16)
+    at done (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:273:7)
+Error: Error: [number-to-bn] while converting number 1.1178395 to BN.js instance, error: invalid number value. Value must be an integer, hex string, BN or BigNumber instance. Note, decimals are not supported. Given value: "1.1178395"
+    at toBN (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:60:15)
+    at numberToHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:239:18)
+    at Object.toHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:316:62)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:44:21)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/html/trade/public/TEKCOS/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:224:16)
+    at done (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:273:7)
+Error: Error: [number-to-bn] while converting number 1.1178395 to BN.js instance, error: invalid number value. Value must be an integer, hex string, BN or BigNumber instance. Note, decimals are not supported. Given value: "1.1178395"
+    at toBN (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:60:15)
+    at numberToHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:239:18)
+    at Object.toHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:316:62)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:44:21)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/html/trade/public/TEKCOS/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:224:16)
+    at done (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:273:7)
+Error: Error: [number-to-bn] while converting number 1.1178395 to BN.js instance, error: invalid number value. Value must be an integer, hex string, BN or BigNumber instance. Note, decimals are not supported. Given value: "1.1178395"
+    at toBN (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:60:15)
+    at numberToHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:239:18)
+    at Object.toHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:316:62)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:44:21)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/html/trade/public/TEKCOS/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:224:16)
+    at done (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:273:7)
+Error: Error: [number-to-bn] while converting number 1.1178395 to BN.js instance, error: invalid number value. Value must be an integer, hex string, BN or BigNumber instance. Note, decimals are not supported. Given value: "1.1178395"
+    at toBN (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:60:15)
+    at numberToHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:239:18)
+    at Object.toHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:316:62)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:44:21)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/html/trade/public/TEKCOS/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:224:16)
+    at done (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:273:7)
+Error: Error: [number-to-bn] while converting number 1.1178395 to BN.js instance, error: invalid number value. Value must be an integer, hex string, BN or BigNumber instance. Note, decimals are not supported. Given value: "1.1178395"
+    at toBN (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:60:15)
+    at numberToHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:239:18)
+    at Object.toHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:316:62)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:44:21)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/html/trade/public/TEKCOS/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:224:16)
+    at done (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:273:7)
+Error: Error: [number-to-bn] while converting number 1.1178395 to BN.js instance, error: invalid number value. Value must be an integer, hex string, BN or BigNumber instance. Note, decimals are not supported. Given value: "1.1178395"
+    at toBN (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:60:15)
+    at numberToHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:239:18)
+    at Object.toHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:316:62)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:44:21)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/html/trade/public/TEKCOS/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:224:16)
+    at done (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:273:7)
+Error: Error: [number-to-bn] while converting number 1.1178395 to BN.js instance, error: invalid number value. Value must be an integer, hex string, BN or BigNumber instance. Note, decimals are not supported. Given value: "1.1178395"
+    at toBN (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:60:15)
+    at numberToHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:239:18)
+    at Object.toHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:316:62)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:44:21)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/html/trade/public/TEKCOS/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:224:16)
+    at done (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:273:7)
+Error: Error: [number-to-bn] while converting number 1.1178395 to BN.js instance, error: invalid number value. Value must be an integer, hex string, BN or BigNumber instance. Note, decimals are not supported. Given value: "1.1178395"
+    at toBN (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:60:15)
+    at numberToHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:239:18)
+    at Object.toHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:316:62)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:44:21)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/html/trade/public/TEKCOS/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:224:16)
+    at done (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:273:7)
+Error: Error: [number-to-bn] while converting number 1.1178395 to BN.js instance, error: invalid number value. Value must be an integer, hex string, BN or BigNumber instance. Note, decimals are not supported. Given value: "1.1178395"
+    at toBN (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:60:15)
+    at numberToHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:239:18)
+    at Object.toHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:316:62)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:44:21)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/html/trade/public/TEKCOS/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:224:16)
+    at done (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:273:7)
+Error: Error: [number-to-bn] while converting number 1.1178395 to BN.js instance, error: invalid number value. Value must be an integer, hex string, BN or BigNumber instance. Note, decimals are not supported. Given value: "1.1178395"
+    at toBN (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:60:15)
+    at numberToHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:239:18)
+    at Object.toHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:316:62)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:44:21)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/html/trade/public/TEKCOS/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:224:16)
+    at done (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:273:7)
+Error: Error: [number-to-bn] while converting number 1.1178395 to BN.js instance, error: invalid number value. Value must be an integer, hex string, BN or BigNumber instance. Note, decimals are not supported. Given value: "1.1178395"
+    at toBN (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:60:15)
+    at numberToHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:239:18)
+    at Object.toHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:316:62)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:44:21)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/html/trade/public/TEKCOS/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:224:16)
+    at done (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:273:7)
+Error: Error: [number-to-bn] while converting number 1.1178395 to BN.js instance, error: invalid number value. Value must be an integer, hex string, BN or BigNumber instance. Note, decimals are not supported. Given value: "1.1178395"
+    at toBN (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:60:15)
+    at numberToHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:239:18)
+    at Object.toHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:316:62)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:44:21)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/html/trade/public/TEKCOS/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:224:16)
+    at done (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:273:7)
+Error: Error: [number-to-bn] while converting number 1.1178395 to BN.js instance, error: invalid number value. Value must be an integer, hex string, BN or BigNumber instance. Note, decimals are not supported. Given value: "1.1178395"
+    at toBN (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:60:15)
+    at numberToHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:239:18)
+    at Object.toHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:316:62)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:44:21)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/html/trade/public/TEKCOS/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:224:16)
+    at done (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:273:7)
+Error: Error: [number-to-bn] while converting number 1.1178395 to BN.js instance, error: invalid number value. Value must be an integer, hex string, BN or BigNumber instance. Note, decimals are not supported. Given value: "1.1178395"
+    at toBN (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:60:15)
+    at numberToHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:239:18)
+    at Object.toHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:316:62)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:44:21)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/html/trade/public/TEKCOS/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:224:16)
+    at done (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:273:7)
+Error: Error: [number-to-bn] while converting number 1.1178395000000001e-17 to BN.js instance, error: invalid number value. Value must be an integer, hex string, BN or BigNumber instance. Note, decimals are not supported. Given value: "1.1178395000000001e-17"
+    at toBN (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:60:15)
+    at numberToHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:239:18)
+    at Object.toHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:316:62)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:45:21)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/html/trade/public/TEKCOS/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:224:16)
+    at done (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:273:7)
+Error: underflow (fault="underflow", operation="BigNumber.from", value=1.1178395, code=NUMERIC_FAULT, version=bignumber/5.3.0)
+    at Logger.makeError (/var/www/html/trade/public/TEKCOS/node_modules/@ethersproject/logger/lib/index.js:187:21)
+    at Logger.throwError (/var/www/html/trade/public/TEKCOS/node_modules/@ethersproject/logger/lib/index.js:196:20)
+    at throwFault (/var/www/html/trade/public/TEKCOS/node_modules/@ethersproject/bignumber/lib/bignumber.js:305:19)
+    at Function.BigNumber.from (/var/www/html/trade/public/TEKCOS/node_modules/@ethersproject/bignumber/lib/bignumber.js:205:17)
+    at NumberCoder.encode (/var/www/html/trade/public/TEKCOS/node_modules/@ethersproject/abi/lib/coders/number.js:30:39)
+    at /var/www/html/trade/public/TEKCOS/node_modules/@ethersproject/abi/lib/coders/array.js:71:19
+    at Array.forEach (<anonymous>)
+    at Object.pack (/var/www/html/trade/public/TEKCOS/node_modules/@ethersproject/abi/lib/coders/array.js:57:12)
+    at TupleCoder.encode (/var/www/html/trade/public/TEKCOS/node_modules/@ethersproject/abi/lib/coders/tuple.js:36:24)
+    at AbiCoder.encode (/var/www/html/trade/public/TEKCOS/node_modules/@ethersproject/abi/lib/abi-coder.js:86:15)
+    at ABICoder.encodeParameters (/var/www/html/trade/public/TEKCOS/node_modules/web3-eth-abi/lib/index.js:121:27)
+    at /var/www/html/trade/public/TEKCOS/node_modules/web3-eth-contract/lib/index.js:439:20
+    at Array.map (<anonymous>)
+    at Object._encodeMethodABI (/var/www/html/trade/public/TEKCOS/node_modules/web3-eth-contract/lib/index.js:438:8)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:52:57)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+Error: underflow (fault="underflow", operation="BigNumber.from", value=1.1178395, code=NUMERIC_FAULT, version=bignumber/5.3.0)
+    at Logger.makeError (/var/www/html/trade/public/TEKCOS/node_modules/@ethersproject/logger/lib/index.js:187:21)
+    at Logger.throwError (/var/www/html/trade/public/TEKCOS/node_modules/@ethersproject/logger/lib/index.js:196:20)
+    at throwFault (/var/www/html/trade/public/TEKCOS/node_modules/@ethersproject/bignumber/lib/bignumber.js:305:19)
+    at Function.BigNumber.from (/var/www/html/trade/public/TEKCOS/node_modules/@ethersproject/bignumber/lib/bignumber.js:205:17)
+    at NumberCoder.encode (/var/www/html/trade/public/TEKCOS/node_modules/@ethersproject/abi/lib/coders/number.js:30:39)
+    at /var/www/html/trade/public/TEKCOS/node_modules/@ethersproject/abi/lib/coders/array.js:71:19
+    at Array.forEach (<anonymous>)
+    at Object.pack (/var/www/html/trade/public/TEKCOS/node_modules/@ethersproject/abi/lib/coders/array.js:57:12)
+    at TupleCoder.encode (/var/www/html/trade/public/TEKCOS/node_modules/@ethersproject/abi/lib/coders/tuple.js:36:24)
+    at AbiCoder.encode (/var/www/html/trade/public/TEKCOS/node_modules/@ethersproject/abi/lib/abi-coder.js:86:15)
+    at ABICoder.encodeParameters (/var/www/html/trade/public/TEKCOS/node_modules/web3-eth-abi/lib/index.js:121:27)
+    at /var/www/html/trade/public/TEKCOS/node_modules/web3-eth-contract/lib/index.js:439:20
+    at Array.map (<anonymous>)
+    at Object._encodeMethodABI (/var/www/html/trade/public/TEKCOS/node_modules/web3-eth-contract/lib/index.js:438:8)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:52:57)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+Error: Error: [number-to-bn] while converting number 1.1178395 to BN.js instance, error: invalid number value. Value must be an integer, hex string, BN or BigNumber instance. Note, decimals are not supported. Given value: "1.1178395"
+    at toBN (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:60:15)
+    at numberToHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:239:18)
+    at Object.toHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:316:62)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:42:24)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/html/trade/public/TEKCOS/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:224:16)
+    at done (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:273:7)
+Error: Error: [number-to-bn] while converting number 1.1178395 to BN.js instance, error: invalid number value. Value must be an integer, hex string, BN or BigNumber instance. Note, decimals are not supported. Given value: "1.1178395"
+    at toBN (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:60:15)
+    at numberToHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:239:18)
+    at Object.toHex (/var/www/html/trade/public/TEKCOS/node_modules/web3-utils/lib/utils.js:316:62)
+    at Object.exports.sendBNBtoken (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:42:24)
+    at /var/www/html/trade/public/TEKCOS/snceiwpeidwa.js:153:32
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/html/trade/public/TEKCOS/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:224:16)
+    at done (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/var/www/html/trade/public/TEKCOS/node_modules/raw-body/index.js:273:7)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:470:11)
+    at ServerResponse.header (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/response.js:771:10)
+    at ServerResponse.send (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/response.js:267:15)
+    at Promise.web3.eth.sendSignedTransaction.on.hash (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:67:8)
+    at Promise.emit (/var/www/html/trade/public/TEKCOS/node_modules/eventemitter3/index.js:181:35)
+    at sendTxCallback (/var/www/html/trade/public/TEKCOS/node_modules/web3-core-method/lib/index.js:550:36)
+    at /var/www/html/trade/public/TEKCOS/node_modules/web3-core-requestmanager/lib/index.js:308:9
+    at XMLHttpRequest.request.onreadystatechange (/var/www/html/trade/public/TEKCOS/node_modules/web3-providers-http/lib/index.js:98:13)
+    at XMLHttpRequestEventTarget.dispatchEvent (/var/www/html/trade/public/TEKCOS/node_modules/xhr2-cookies/dist/xml-http-request-event-target.js:34:22)
+    at XMLHttpRequest._setReadyState (/var/www/html/trade/public/TEKCOS/node_modules/xhr2-cookies/dist/xml-http-request.js:208:14)
+    at XMLHttpRequest._onHttpResponseEnd (/var/www/html/trade/public/TEKCOS/node_modules/xhr2-cookies/dist/xml-http-request.js:318:14)
+    at IncomingMessage.<anonymous> (/var/www/html/trade/public/TEKCOS/node_modules/xhr2-cookies/dist/xml-http-request.js:289:61)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:470:11)
+    at ServerResponse.header (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/response.js:771:10)
+    at ServerResponse.send (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/var/www/html/trade/public/TEKCOS/node_modules/express/lib/response.js:267:15)
+    at Promise.web3.eth.sendSignedTransaction.on.hash (/var/www/html/trade/public/TEKCOS/sendBNBtoken.js:67:8)
+    at Promise.emit (/var/www/html/trade/public/TEKCOS/node_modules/eventemitter3/index.js:181:35)
+    at sendTxCallback (/var/www/html/trade/public/TEKCOS/node_modules/web3-core-method/lib/index.js:550:36)
+    at /var/www/html/trade/public/TEKCOS/node_modules/web3-core-requestmanager/lib/index.js:308:9
+    at XMLHttpRequest.request.onreadystatechange (/var/www/html/trade/public/TEKCOS/node_modules/web3-providers-http/lib/index.js:98:13)
+    at XMLHttpRequestEventTarget.dispatchEvent (/var/www/html/trade/public/TEKCOS/node_modules/xhr2-cookies/dist/xml-http-request-event-target.js:34:22)
+    at XMLHttpRequest._setReadyState (/var/www/html/trade/public/TEKCOS/node_modules/xhr2-cookies/dist/xml-http-request.js:208:14)
+    at XMLHttpRequest._onHttpResponseEnd (/var/www/html/trade/public/TEKCOS/node_modules/xhr2-cookies/dist/xml-http-request.js:318:14)
+    at IncomingMessage.<anonymous> (/var/www/html/trade/public/TEKCOS/node_modules/xhr2-cookies/dist/xml-http-request.js:289:61)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+    at ABICoder.decodeParametersWith (/var/www/html/trade/public/TEKCOS/node_modules/web3-eth-abi/lib/index.js:298:15)
+    at ABICoder.decodeParameters (/var/www/html/trade/public/TEKCOS/node_modules/web3-eth-abi/lib/index.js:285:17)
+    at Contract._decodeMethodReturn (/var/www/html/trade/public/TEKCOS/node_modules/web3-eth-contract/lib/index.js:470:22)
+    at Method.outputFormatter (/var/www/html/trade/public/TEKCOS/node_modules/web3-eth-contract/lib/index.js:760:42)
+    at Method.formatOutput (/var/www/html/trade/public/TEKCOS/node_modules/web3-core-method/lib/index.js:147:54)
+    at sendTxCallback (/var/www/html/trade/public/TEKCOS/node_modules/web3-core-method/lib/index.js:523:33)
+    at /var/www/html/trade/public/TEKCOS/node_modules/web3-core-requestmanager/lib/index.js:308:9
+    at XMLHttpRequest.request.onreadystatechange (/var/www/html/trade/public/TEKCOS/node_modules/web3-providers-http/lib/index.js:98:13)
+    at XMLHttpRequestEventTarget.dispatchEvent (/var/www/html/trade/public/TEKCOS/node_modules/xhr2-cookies/dist/xml-http-request-event-target.js:34:22)
+    at XMLHttpRequest._setReadyState (/var/www/html/trade/public/TEKCOS/node_modules/xhr2-cookies/dist/xml-http-request.js:208:14)
+    at XMLHttpRequest._onHttpResponseEnd (/var/www/html/trade/public/TEKCOS/node_modules/xhr2-cookies/dist/xml-http-request.js:318:14)
+    at IncomingMessage.<anonymous> (/var/www/html/trade/public/TEKCOS/node_modules/xhr2-cookies/dist/xml-http-request.js:289:61)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+    at ABICoder.decodeParametersWith (/var/www/html/trade/public/TEKCOS/node_modules/web3-eth-abi/lib/index.js:298:15)
+    at ABICoder.decodeParameters (/var/www/html/trade/public/TEKCOS/node_modules/web3-eth-abi/lib/index.js:285:17)
+    at Contract._decodeMethodReturn (/var/www/html/trade/public/TEKCOS/node_modules/web3-eth-contract/lib/index.js:470:22)
+    at Method.outputFormatter (/var/www/html/trade/public/TEKCOS/node_modules/web3-eth-contract/lib/index.js:760:42)
+    at Method.formatOutput (/var/www/html/trade/public/TEKCOS/node_modules/web3-core-method/lib/index.js:147:54)
+    at sendTxCallback (/var/www/html/trade/public/TEKCOS/node_modules/web3-core-method/lib/index.js:523:33)
+    at /var/www/html/trade/public/TEKCOS/node_modules/web3-core-requestmanager/lib/index.js:308:9
+    at XMLHttpRequest.request.onreadystatechange (/var/www/html/trade/public/TEKCOS/node_modules/web3-providers-http/lib/index.js:98:13)
+    at XMLHttpRequestEventTarget.dispatchEvent (/var/www/html/trade/public/TEKCOS/node_modules/xhr2-cookies/dist/xml-http-request-event-target.js:34:22)
+    at XMLHttpRequest._setReadyState (/var/www/html/trade/public/TEKCOS/node_modules/xhr2-cookies/dist/xml-http-request.js:208:14)
+    at XMLHttpRequest._onHttpResponseEnd (/var/www/html/trade/public/TEKCOS/node_modules/xhr2-cookies/dist/xml-http-request.js:318:14)
+    at IncomingMessage.<anonymous> (/var/www/html/trade/public/TEKCOS/node_modules/xhr2-cookies/dist/xml-http-request.js:289:61)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)

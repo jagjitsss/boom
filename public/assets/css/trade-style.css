@@ -1,0 +1,62 @@
+/** Moosa Style **/
+@media(min-width:1200px){
+.adv-theme.dark-theme .index-header{
+height:40px;
+padding:0.5rem;
+}
+.pos_abs{
+padding:0.7rem 43px;
+height:50px;
+}
+.adv-trade-wrapper{
+width:100%;
+display:block;
+}
+.adv-trade-wrapper{
+height:calc(100vh - 90px);
+}
+.history-adv .portlet-header{
+height:44px;
+}
+.history-adv .portlet-content table thead,.history-adv .portlet-content table thead tr{
+height:25px;
+}
+.recent_trade_new_blk .portlet-header{
+height:35px;
+}
+.recent_trade_new_blk .portlet-content ul.nav-tabs{
+height:35px;
+}
+.recent_trade_new_blk .portlet-content table thead{
+height:25px;
+padding:4px 0;
+}
+.adv-buysell-order-cnt .portlet-header{
+height:35px;
+}
+.adv-buysell-order-cnt .portlet-content table thead{
+height:25px;
+padding:4px 0;
+}
+.tb-seperator{
+height:30px;
+}
+.tb-84{
+overflow-y:hidden ! important;
+}
+.limit_new_class .portlet-header{
+height: 50px;
+}
+.limit_new_class .portlet-content{
+margin-bottom:8px;
+overflow-y:auto;
+}
+.dark-theme.adv-theme .exchange_dropdown .nav-link.index-header-link.dropdown-toggle{
+margin-top:8px;
+color:#88afc2;
+}
+.center-nav-links li a{
+color:#88afc2;
+}
+}
+/** E O Moosa Style **/

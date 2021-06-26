@@ -1,0 +1,228 @@
+/* 
+ *  Owl Carousel - Animate Plugin
+ */
+.owl-carousel .animated {
+	-webkit-animation-duration: 1000ms;
+	animation-duration: 1000ms;
+	-webkit-animation-fill-mode: both;
+	animation-fill-mode: both;
+}
+.owl-carousel .owl-animated-in {
+	z-index: 0;
+}
+.owl-carousel .owl-animated-out {
+	z-index: 1;
+}
+.owl-carousel .fadeOut {
+	-webkit-animation-name: fadeOut;
+	animation-name: fadeOut;
+}
+ @-webkit-keyframes fadeOut {
+ 0% {
+ opacity: 1;
+}
+ 100% {
+ opacity: 0;
+}
+}
+@keyframes fadeOut {
+ 0% {
+ opacity: 1;
+}
+ 100% {
+ opacity: 0;
+}
+}
+/* 
+ * 	Owl Carousel - Auto Height Plugin
+ */
+.owl-height {
+	-webkit-transition: height 500ms ease-in-out;
+	-moz-transition: height 500ms ease-in-out;
+	-ms-transition: height 500ms ease-in-out;
+	-o-transition: height 500ms ease-in-out;
+	transition: height 500ms ease-in-out;
+}
+/* 
+ *  Core Owl Carousel CSS File
+ */
+.owl-carousel {
+	display: none;
+	width: 100%;
+	-webkit-tap-highlight-color: transparent;
+	/* position relative and z-index fix webkit rendering fonts issue */
+	position: relative;
+	z-index: 1;
+	margin: 0;
+}
+.owl-carousel .owl-stage {
+	position: relative;
+	-ms-touch-action: pan-Y;
+}
+.owl-carousel .owl-stage:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+.owl-carousel .owl-stage-outer {
+	position: relative;
+	overflow: hidden;
+	/* fix for flashing background */
+	-webkit-transform: translate3d(0px, 0px, 0px);
+	
+}
+.owl-carousel .owl-controls .owl-nav .owl-prev, .owl-carousel .owl-controls .owl-nav .owl-next, .owl-carousel .owl-controls .owl-dot {
+	cursor: pointer;
+	cursor: hand;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+.owl-carousel.owl-loaded {
+	display: block;
+}
+.owl-carousel.owl-loading {
+	opacity: 0;
+	display: block;
+}
+.news_sec .owl-carousel.owl-hidden {
+	opacity: 0;
+}
+.news_sec .owl-carousel .owl-refresh .owl-item {
+	display: none;
+}
+.news_sec .owl-carousel .owl-item {
+	position: relative;
+	min-height: 1px;
+	float: left;
+	-webkit-backface-visibility: hidden;
+	-webkit-tap-highlight-color: transparent;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	
+}
+
+.news_sec .owl-carousel .owl-item img {
+	display: inline-block;
+	width: auto;
+	-webkit-transform-style: preserve-3d;
+	margin: 0 auto;
+	max-width: none;
+}
+.news_sec .owl-carousel.owl-text-select-on .owl-item {
+	-webkit-user-select: auto;
+	-moz-user-select: auto;
+	-ms-user-select: auto;
+	user-select: auto;
+}
+.owl-carousel .owl-grab {
+	cursor: move;
+	cursor: -webkit-grab;
+	cursor: -o-grab;
+	cursor: -ms-grab;
+	cursor: grab;
+}
+.news_sec .owl-carousel.owl-rtl {
+	direction: rtl;
+}
+.news_sec .owl-carousel.owl-rtl .owl-item {
+	float: right;
+}
+.no-js .owl-carousel {
+	display: block;
+}
+.news_sec .owl-carousel .owl-item .owl-lazy {
+	opacity: 0;
+	-webkit-transition: opacity 400ms ease;
+	-moz-transition: opacity 400ms ease;
+	-ms-transition: opacity 400ms ease;
+	-o-transition: opacity 400ms ease;
+	transition: opacity 400ms ease;
+}
+.news_sec .owl-carousel .owl-item img {
+	transform-style: preserve-3d;
+}
+.news_sec .owl-item .item {
+	padding: 10px;
+}
+.news_sec .owl-nav {
+  color: #000000;
+  position: absolute;
+  right: 0;
+  width: 100%;
+  z-index: 9999;
+	top: -9px;
+	 display: block;
+}
+.news_sec .owl-prev i {
+
+color: #969696;
+font-size:20px;
+left: -27px;
+padding:7px;
+position: absolute;
+width:30px;
+top:170px;
+border: 1px #ececec solid;
+border-radius: 50%;
+height:30px;
+line-height:14px;
+text-align: center;
+box-shadow:0 0 5px 0px rgba(0,0,0,0.2);
+
+}
+.news_sec .owl-next i {
+  color: #969696;
+font-size: 20px;
+right: -27px;
+padding: 12px;
+position: absolute;
+width: 30px;
+top:170px;
+border: 1px #ececec solid;
+border-radius: 50%;
+height:30px;
+line-height:5px;
+text-align: center;
+box-shadow:0 0 5px 0px rgba(0,0,0,0.2);
+}
+
+
+
+
+@media screen and (min-width:768px) and (max-width:1024px){
+.news_sec .owl-prev {
+  color: #ffffff;
+  font-size: 24px;
+  left: -50px;
+  line-height: 45px;
+  padding: 0;
+  position: absolute;
+  text-align: center;
+  width: 36px;
+}
+.news_sec .owl-next {
+  color: #ffffff;
+  font-size: 24px;
+  right: -50px;
+  line-height: 45px;
+  padding: 0;
+  position: absolute;
+  text-align: center;
+  width: 36px;
+}
+}
+
+@media screen and (min-width:320px) and (max-width:767px){
+.news_sec .owl-nav {
+    display: none;
+}
+}

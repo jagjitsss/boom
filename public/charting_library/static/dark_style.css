@@ -1,0 +1,43 @@
+.favored-list-container .quick span:first-child {
+    background: #000 !important;
+    color: #fff !important;
+}
+.favored-list-container span.submenu {
+	background: #000 !important;
+    color: #fff !important;
+}
+.favored-list-container span {
+	border-color : #333 !important;
+}
+.chart-style-widget svg {
+	fill: #fff !important;
+}
+.header-group-indicators a, .header-group-fullscreen span {
+	background: #000 !important;
+	border-color : #333 !important;
+}
+.toggle-caption svg, .fullscreen svg {
+	fill: #fff !important;
+}
+.symbol-edit-inputspacer input {
+	background: #000 !important;
+	color: #fff !important;
+	border-color : #333 !important;
+}
+.expanded {
+	box-shadow: none !important;
+}
+.expanded input {
+    width: 91px !important;
+    background: #000 !important;
+	pointer-events: none !important;
+}
+.favored-list-container span.submenu.interval-dialog-button i {
+	background: #fff !important;
+}
+.loading-indicator {
+	background: #000 !important;
+}
+.chart-page .chart-container {
+	border-color: #333 !important;
+}

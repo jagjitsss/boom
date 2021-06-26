@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>gt-php-sdk-demo</title>
+    <style>
+        body {
+            margin: 50px 0;
+            text-align: center;
+        }
+        .inp {
+            border: 1px solid gray;
+            padding: 0 10px;
+            width: 200px;
+            height: 30px;
+            font-size: 18px;
+        }
+        .btn {
+            border: 1px solid gray;
+            width: 100px;
+            height: 30px;
+            font-size: 18px;
+            cursor: pointer;
+        }
+        #embed-captcha {
+            width: 300px;
+            margin: 0 auto;
+        }
+        .show {
+            display: block;
+        }
+        .hide {
+            display: none; 
+        }
+        #notice {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+<h1>Verification verification SDKDemo</h1>
+<form class="popup" action="../web/VerifyLoginServlet.php" method="post">
+    <h2>Embedded Demo, submitting the verification result value required for secondary verification using form form</h2>
+    <br>
+    <p>
+        <label for="username2">username：</label>
+        <input class="inp" id="username2" type="text" value="">
+    </p>
+    <br>
+    <p>
+        <label for="password2">Password：</label>
+        <input class="inp" id="password2" type="password" value="">
+    </p>
+
+    <div id="embed-captcha"></div>
+    <p id="wait" class="show">Loading verification code......</p>
+    <p id="notice" class="hide">Please complete verification first</p>
+
+    <br>
+    <input class="btn" id="embed-submit" type="submit" value="submit">
+</form>
+<script src="http://apps.bdimg.com/libs/jquery/1.9.1/jquery.js"></script>
+<script src="./gt.js?ver=123"></script>
+<script>
+    var handlerEmbed = function (captchaObj) {
+        $("#embed-submit").click(function (e) {
+            var validate = captchaObj.getValidate();
+            if (!validate) {
+                $("#notice")[0].className = "show";
+                setTimeout(function () {
+                    $("#notice")[0].className = "hide";
+                }, 2000);
+                e.preventDefault();
+            }
+        });
+        // Add the verification code to the element with id captcha, and there will be three input values: geetest_challenge, geetest_validate, geetest_seccode
+        captchaObj.appendTo("#embed-captcha");
+        captchaObj.onReady(function () {
+            $("#wait")[0].className = "hide";
+        });
+        // More interface reference：http://www.geetest.com/install/sections/idx-client-sdk.html
+    };
+    $.ajax({
+        // 获取id，challenge，success（是否启用failback）
+        //url: "../web/StartCaptchaServlet.php?t=" + (new Date()).getTime(), // Add random numbers to prevent caching
+        url: "../web/StartCaptchaServlet.php?t=" + (new Date()).getTime(), // Add random numbers to prevent caching
+        type: "get",
+        dataType: "json",
+        success: function (data) {
+            //console.log(data);
+            // Use the initGeetest interface
+            // Parameter 1: Configuration parameters
+            // Parameter 2: Callback, the first parameter of the callback to validate the code object, which can then be used to do events like appendTo
+            initGeetest({
+                gt: data.gt,
+                challenge: data.challenge,
+                new_captcha: data.new_captcha,
+                product: "embed", // Product form, including: float, embed, popup. Note that only valid for PC version verification code
+                lang: 'en',
+                offline: !data.success // Indicates whether the user's background detection server is down, and generally does not need to pay attention
+                // For more configuration parameters, please see: http://www.geetest.com/install/sections/idx-client-sdk.html#config
+            }, handlerEmbed);
+        }
+    });
+</script>
+</body>
+</html>
